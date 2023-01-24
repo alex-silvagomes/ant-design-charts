@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "@ant-design/plots": "latest",
+    "react": "latest",
+    "react-dom": "latest"
+  },
+  "devDependencies": {},
+  "main": "index.js"
+}
